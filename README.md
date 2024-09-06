@@ -1,2 +1,2 @@
 # parallex-effect
- learning styling
+  just learning how to style a web page...
